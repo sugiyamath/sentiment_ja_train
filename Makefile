@@ -5,7 +5,7 @@ all:
 	pip3 install -r requirements.txt
 	make scrape_tweets
 	make p1
-	make -j $(JOBS)
+	make p2_3 -j $(JOBS)
 	make spm
 	make train
 	make test
