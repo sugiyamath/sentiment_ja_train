@@ -38,4 +38,5 @@ train:
 	python3 scripts/train.py data
 
 .PHONY: test
+test:
 	python3 scripts/test_model.py data
