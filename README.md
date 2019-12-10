@@ -1,6 +1,6 @@
 
 # sentiment_ja_train
-Training pipeline of sentiment_ja
+Training pipeline of sentiment_ja: https://github.com/sugiyamath/sentiment_ja
 
 
 ## How sentiment_ja works?
