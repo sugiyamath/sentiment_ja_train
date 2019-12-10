@@ -8,7 +8,7 @@ all:
 	make -j $(JOBS)
 	make spm
 	make train
-	make
+	make test
 
 .PHONY: scrape_tweets
 scrape_tweets:
