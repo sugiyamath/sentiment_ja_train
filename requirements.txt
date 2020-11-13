@@ -2,6 +2,6 @@ numpy==1.17.4
 pandas==0.25.3
 scikit-learn==0.22
 sentencepiece==0.1.83
-tensorflow-gpu==2.0.0
+tensorflow-gpu==2.3.1
 tqdm==4.39.0
 twitterscraper==1.4.0
